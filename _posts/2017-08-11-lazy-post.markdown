@@ -1,0 +1,6 @@
+---
+lay out: post
+title: A Lazy Summer
+date: 20:53:34.000000000 +09:00
+---
+![alt text](/asset/images/IMG_6780.PNG "Title")
