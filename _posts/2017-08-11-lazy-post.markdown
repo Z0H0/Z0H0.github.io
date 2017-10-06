@@ -3,6 +3,6 @@ lay out: post
 title: A Lazy Summer
 date: 20:53:34.000000000 +09:00
 ---
-![alt text](/asset/images/IMG_6780.PNG "Title")
- ![](/asset/images/IMG_6780.PNG "optional title"){ImgCap}alt text{/ImgCap}
-<img src="http://zacharypt.github.io/asset/images/IMG_6780.PNG" width="50%" height="50%" />
+![alt text](/assets/images/IMG_6780.PNG "Title")
+ ![](/assets/images/IMG_6780.PNG "optional title"){ImgCap}alt text{/ImgCap}
+<img src="http://zacharypt.github.io/assets/images/IMG_6780.PNG" width="50%" height="50%" />
