@@ -10,6 +10,9 @@ A painting is more than the sum of its parts.A coW by itself is just a coW.A mea
 一幅画不是众多物件简单拼凑而成的。牛只是一头牛，草地也只有青草和鲜花，而穿过树枝的阳光也仅仅只是一束光，但如果将它们放到一起，就会产生魔法一般的魅力。<br />
 
 The higherI got,the more amazedI was by the view.
-我爬得越高，眼前的风景便愈发迷人。
+我爬得越高，眼前的风景便愈发迷人。<br />
 
+Some days the sunsets would be purple and pink.And some days they were a blazing orange setting fire to the clouds on the horizon.It was during one of those sunsets that my father's idea of the whole being greater than the sum of its parts moved from my head to my heart.
+有时落日泛起紫红的余晖，有时散发出橘红色的火光燃起天边的晚霞。在这绚烂的日落景象中，我慢慢领悟了父亲所说的整体胜于局部总和的道理。
+![alt text](/assets/images/24A16894-EB0A-42F6-9EC4-63701D19884C.jpeg "Title")
 
