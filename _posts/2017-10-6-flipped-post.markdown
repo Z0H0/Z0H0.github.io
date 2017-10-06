@@ -22,4 +22,4 @@ Sometimes a little discomfort in the beginning can save a whole lot of pain down
 Some of us get dipped in flat,some in satin, some in gloss.But every once in a while you find someone who's iridescent,and when you do,nothing will ever compare.
 有些人沦为平庸浅薄，金玉其外，而败絮其中。可不经意间，有一天你会遇到一个彩虹般绚丽的人，从此以后，其他人就不过是匆匆浮云。<br />
 
-![alt text](/assets/images/38425FE-F521-4036-B66A-A6870EB42C24.jpeg "Title")
+![alt text](/assets/images/838425FE-F521-4036-B66A-A6870EB42C24.jpeg "Title")
