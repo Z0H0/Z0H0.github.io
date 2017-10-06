@@ -16,3 +16,5 @@ Some days the sunsets would be purple and pink.And some days they were a blazing
 有时落日泛起紫红的余晖，有时散发出橘红色的火光燃起天边的晚霞。在这绚烂的日落景象中，我慢慢领悟了父亲所说的整体胜于局部总和的道理。
 ![alt text](/assets/images/24A16894-EB0A-42F6-9EC4-63701D19884C.jpeg "Title")
 
+Sometimes a little discomfort in the beginning can save a whole lot of pain down the road.
+有时起初的隐忍可以避免一路的疼痛。<br />
