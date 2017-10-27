@@ -12,7 +12,7 @@ date: 20:53:34.000000000 +09:00
 ***flipped*** is a very simple story, but very rich. Speaking of children puppy love, in fact, the film also talked about the **pursuit**(追求)of their dreams, respect, hard work, how to look at poverty, how to accept the disabled family, how to maintain their own **self-esteem**(自尊).
 《怦然心动》是很简单的故事，但是很丰富。主讲小孩早恋，其实这部电影里还讲了追求自己的梦想，尊重，勤劳，怎么看待贫穷，怎么接纳残障的家人，怎么维护自己的自尊。
 ![alt text](/assets/images/6827B6BC-8F7C-4C34-B6BA-901AABC469BD.jpeg "Title")
-Summary of《Flipped》
+### Summary of *Flipped* ###
 
 Flipped is written by Wendelin Van Draanen who is a American writer and it was adopted to the movie in 2010
 The novel describes a funny story about a boy and a girl in adolescence whose name is Juli Baker and Bryce Loski
