@@ -31,8 +31,8 @@ Until Bryce really understood and love Juli with his grandfather’ guidance, Ju
 ![alt text](/assets/images/531C85C5-DE7A-4463-A6D0-3DA8C8BE94AD.jpeg "Title")
 
 ### Classic lines: ###
->A painting is more than the sum of its parts.A cow by itself is just a cow.A meadow by itself is just grass,flowers.And the sun peeking through the trees is just a beam of light.But you put them all together and it can be magic.
-*一幅画不是众多物件简单拼凑而成的。牛只是一头牛，草地也只有青草和鲜花，而穿过树枝的阳光也仅仅只是一束光，但如果将它们放到一起，就会产生魔法一般的魅力。*<br />
+```A painting is more than the sum of its parts.A cow by itself is just a cow.A meadow by itself is just grass,flowers.And the sun peeking through the trees is just a beam of light.But you put them all together and it can be magic.
+*一幅画不是众多物件简单拼凑而成的。牛只是一头牛，草地也只有青草和鲜花，而穿过树枝的阳光也仅仅只是一束光，但如果将它们放到一起，就会产生魔法一般的魅力。*<br />```
 
 >The higherI got,the more amazedI was by the view.
 *我爬得越高，眼前的风景便愈发迷人。*<br />
