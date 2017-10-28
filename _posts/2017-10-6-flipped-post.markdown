@@ -51,9 +51,9 @@ Until Bryce really understood and love Juli with his grandfather’ guidance, Ju
 ![alt text](/assets/images/838425FE-F521-4036-B66A-A6870EB42C24.jpeg "Title")
 
 ### Flim Link：###
-[BILIBILI flipped混剪](https://www.bilibili.com/video/av5010967.html)    
+[BILIBILI flipped混剪](https://www.bilibili.com/video/av5010967/?from=search&seid=5752836680726084503)    
 
-[BILIBILI flipped预告](https://www.bilibili.com/video/av9601315.html)
+[BILIBILI flipped预告](https://www.bilibili.com/video/av9601315/?from=search&seid=5752836680726084503)
 
 -------
 
