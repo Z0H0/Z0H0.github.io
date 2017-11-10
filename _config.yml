@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    uyan: uyan_frame
+    uyan: 2148612
     # duoshuo: 
     
 # Social
