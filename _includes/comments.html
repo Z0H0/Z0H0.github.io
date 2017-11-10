@@ -1,6 +1,7 @@
 <section class="post-comments">
+    {% if site.comment.disqus %}
     <script>
-      		      
+    
       var disqus_config = function () {		   		 
      var disqus_shortname = '{{ site.comment.disqus }}';		    
      		     
