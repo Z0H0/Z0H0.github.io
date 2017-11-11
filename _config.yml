@@ -32,7 +32,6 @@ paginate_path: "page/:num/"
 
 # Comment
 comment: true
-
     disqus: zachary-1
     # uyan: 2148612
     # duoshuo: 
