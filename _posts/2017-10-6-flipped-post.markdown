@@ -24,7 +24,7 @@ From then on, Juli tried to make **acquaintance**（结识）with Bryce but Bryc
 Finally, Juli’s story was reported in the newspaper so Bryce’s grandfather had a good impression with Juli which confused Bryce. Later on, Juli won the first prize in the technological show with the program that chicken laid eggs so that she became the focus in the whole school which disappointed Bryce a lot. What is more, Bryce heard his families said Juli’s eggs were not **sanitary**（卫生的） so he threw them away without telling anyone when Juli give them eggs to him. 
 ![alt text](/assets/images/D104008C-BCE6-478D-8373-1CDDCB1D3E09.jpeg "Title")
 ![alt text](/assets/images/FCAB0580-DDBB-4704-8E64-34E8FAD95475.jpeg "Title")
-However, Juli finally knew the truth and was so sad which turned their relationship into the worst situation. Juli told his families that he want to fix the backyard behind their house, which led to a quarrel in her family **on account of**（由于）their **poverty**（贫穷）. But the girl understood his family and decided to do it herself.in addition, Bryce’s grandfather also helped her to rebuild the backyard. Therefore, Bryce began to pay attention to the girl. But Juli didn’t care about Bryce later. Bryce showed his apology to Juli but it didn’t work. Later in the selection of launch boy, Juli voted another boy but not Bryce and in the dinner gathering between the two families, Juli ignore him as usual. 
+However, Juli finally knew the truth and was so sad which turned their relationship into the worst situation. Juli told her families that she want to fix the backyard behind their house, which led to a quarrel in her family **on account of**（由于）their **poverty**（贫穷）. But the girl understood her family and decided to do it herself.in addition, Bryce’s grandfather also helped her to rebuild the backyard. Therefore, Bryce began to pay attention to the girl. But Juli didn’t care about Bryce later. Bryce showed his apology to Juli but it didn’t work. Later in the selection of launch boy, Juli voted another boy but not Bryce and in the dinner gathering between the two families, Juli ignore him as usual. 
 ![alt text](/assets/images/F5099730-3409-4173-B19C-31B9F3AD0DD6.jpeg "Title")
 ![alt text](/assets/images/5ED85C83-FEEB-4614-AD7F-159E4DC1FD86.jpeg "Title")
 Until Bryce really understood and love Juli with his grandfather’ guidance, Juli forgave and made peace with him.
@@ -34,7 +34,7 @@ Until Bryce really understood and love Juli with his grandfather’ guidance, Ju
 >A painting is more than the sum of its parts.A cow by itself is just a cow.A meadow by itself is just grass,flowers.And the sun peeking through the trees is just a beam of light.But you put them all together and it can be magic.
 *一幅画不是众多物件简单拼凑而成的。牛只是一头牛，草地也只有青草和鲜花，而穿过树枝的阳光也仅仅只是一束光，但如果将它们放到一起，就会产生魔法一般的魅力。*<br />
 
->The higherI got,the more amazed I was by the view.
+>The higher I got,the more amazed I was by the view.
 *我爬得越高，眼前的风景便愈发迷人。*<br />
 
 >Some days the sunsets would be purple and pink.And some days they were a blazing orange setting fire to the clouds on the horizon.It was during one of those sunsets that my father's idea of the whole being greater than the sum of its parts moved from my head to my heart.
