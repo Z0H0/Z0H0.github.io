@@ -1,11 +1,11 @@
 # Basic
-title: Zachary's Blog
+title: Z O H O
 subtitle: 记得早先少年时
-welcome_message: <a href="https://zacharypt.github.io/" target="_blank">github</a>
+welcome_message: <a href="https://z0h0.github.io/" target="_blank">this page</a>
 description: 你来人间一趟，你要看看太阳， 和你的心上人，一起走在街上。
-creator: <a href="http://zacharypt.github.io">@zachary</a>
+creator: <a href="http://z0h0.github.io">@z0h0</a>
 
-url: "http://zacharypt.github.io"
+url: "http://z0h0.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -22,8 +22,8 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    #- {title: Links, description: My fellows, url: 'http://zacharypt.github.io'}
-    - {title: Pictures, description: ideal place, url: 'http://zacharypt.github.io/photopage.html'}
+    #- {title: Links, description: My fellows, url: 'http://z0h0.github.io'}
+    - {title: Pictures, description: ideal place, url: 'http://z0hp.github.io/photopage.html'}
 
 # Pagination
 gems: [jekyll-paginate]
